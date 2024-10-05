@@ -12,7 +12,7 @@ remappings = [
 ]
 ffi = true
 gas_reports = ["*"]
-solc = '0.8.20'
+solc = '0.8.24'
 evm_version = 'paris'
 # Enable optimizer
 optimizer = true
