@@ -6,9 +6,20 @@ out/
 !/broadcast
 /broadcast/*/31337/
 /broadcast/**/dry-run/
+broadcast/
 
 # Docs
 docs/
 
 # Dotenv file
 .env
+
+# Node modules
+node_modules/
+
+
+lib/ccip
+lib/openzeppelin-contracts/
+lib/chainlink/
+lib/chainlink-local/
+lib/foundry-devops
